@@ -17,10 +17,10 @@ Aqui você conhecera os projetos que fiz durante cursos que realizei e também p
 </span>
 
 <span align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marcospsw&show_icons=true&title_color=fff&icon_color=d76aa8&text_color=9f9f9f&bg_color=0d1117" alt="Github Stats" height=175/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marcospsw&show_icons=true&title_color=FF79C6&icon_color=e7de79&text_color=E1E1E6&bg_color=191622" alt="Github Stats" height=200/>
 </span>
 
 <span align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcospsw&layout=compact&title_color=fff&text_color=9f9f9f&bg_color=0d1117" alt="Github Stats" height=175 />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcospsw&layout=compact&title_color=FF79C6&text_color=E1E1E6&bg_color=191622" alt="Github Stats" height=200 />
 </span>
 
