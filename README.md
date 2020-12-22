@@ -21,6 +21,14 @@ Aqui você conhecera os projetos que fiz durante cursos que realizei e também p
 </span>
 
 <span align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcospsw&layout=compact&title_color=FF79C6&text_color=E1E1E6&bg_color=191622" alt="Github Stats" height=250 />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcospsw&layout=compact&title_color=FF79C6&text_color=E1E1E6&bg_color=191622" alt="Github Stats" height=200 />
 </span>
+
+<span align="center">
+  <a href="https://www.linkedin.com/in/marcos-wergles/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=marcospsw&repo=GoBarberWeb&title_color=FF79C6&icon_color=e7de79&text_color=E1E1E6&bg_color=191622" alt="Github Stats" height=200 />
+    </a>
+</span>
+
+https://github-readme-stats.vercel.app/api/pin?username=marcospsw&repo=GoBarberWeb&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515
 
