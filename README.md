@@ -21,6 +21,6 @@ Aqui você conhecera os projetos que fiz durante cursos que realizei e também p
 </span>
 
 <span align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcospsw&layout=compact&title_color=FF79C6&text_color=E1E1E6&bg_color=191622" alt="Github Stats" height=200 />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcospsw&layout=compact&title_color=FF79C6&text_color=E1E1E6&bg_color=191622" alt="Github Stats" height=250 />
 </span>
 
