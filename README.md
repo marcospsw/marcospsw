@@ -23,3 +23,11 @@ Aqui você conhecera os projetos que fiz durante cursos que realizei e também p
 </p>
 
 
+<p align="center">
+  <a href="https://github.com/marcospsw/GoBarberWeb">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=marcospsw&repo=GoBarberWeb&title_color=FF79C6&icon_color=e7de79&text_color=E1E1E6&bg_color=191622" alt="Github Stats" height=120 />
+  </a>
+  <a href="https://github.com/marcospsw/GoBarberServer">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=marcospsw&repo=GoBarberServer&title_color=FF79C6&icon_color=e7de79&text_color=E1E1E6&bg_color=191622" alt="Github Stats" height=120 />
+  </a>
+</p>
