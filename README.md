@@ -18,7 +18,7 @@ Trabalho como desenvolvedor de software na empresa ED Company a 6 meses, utiliza
 |<img src="https://iconape.com/wp-content/files/ez/353342/png/javascript-logo.png" align="center" height="20" /> Javascript|    **Metodologias Ageis**    |
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/600px-Typescript_logo_2020.svg.png" align="center" height="20" /> Typescript|<img src="https://www.pinclipart.com/picdir/middle/37-375056_kanban-board-kanban-png-clipart.png" align="center" height="20" /> KANBAN            |
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1024px-HTML5_Badge.svg.png" align="center" height="20" /> HTML|<img src="https://cdn.iconscout.com/icon/free/png-256/scrum-3658808-3051792.png" height="15" align="center" /> SCRUM            |
-|<img src="https://www.iconninja.com/files/752/618/436/css-internet-technology-website-web-style-css3-icon.svg" align="center" height="20" /> CSS com Pré Processadores|
+|<img src="https://www.iconninja.com/files/752/618/436/css-internet-technology-website-web-style-css3-icon.svg" align="center" height="20" /> CSS com Pré Processadores <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" align="center" height="20" />|
 </center>
   
 <h2 align="center">💻💻Seja bem vindo ao meu portfólio!!!💻💻</h2>
