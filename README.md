@@ -7,19 +7,21 @@ Aqui você conhecera os projetos que fiz durante cursos que realizei e também p
 
 Trabalho como desenvolvedor de software na empresa ED Company a 6 meses, utilizando Angular para Front-End e Node com Graphql para Back-End, dando suporte de sustentação ao Cliente Online um produto da IcatuSeguros.
 
+<div align="center">
 
-| Tecnologias atualmente utilizadas |   Tecnologias já estudadas   |
-|:---------------------------------:|:----------------------------:|
-|<img src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" align="center" height="20" /> Angular|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" align="center" height="20" /> React.JS           |
-|<img src="https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg" align="center" height="20" /> Node.JS|<img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/flutter.png" align="center" height="20" /> Flutter **(Recente)**   |
-|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1024px-GraphQL_Logo.svg.png" align="center" height="15" /> GraphQL|<img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" align="center" height="20" /> MongoDB           |
-|<img src="https://cdn.iconscout.com/icon/free/png-256/azure-devops-3628645-3029870.png" align="center" height="20" /> Azure DevOps|<img src="https://seeklogo.com/images/M/mysql-logo-69B39F7D18-seeklogo.com.png" align="center" height="20" /> SQL (MySQL)         |
-|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" align="center" height="20" /> Git|
-|<img src="https://iconape.com/wp-content/files/ez/353342/png/javascript-logo.png" align="center" height="20" /> Javascript|    **Metodologias Ageis**    |
-|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/600px-Typescript_logo_2020.svg.png" align="center" height="20" /> Typescript|<img src="https://www.pinclipart.com/picdir/middle/37-375056_kanban-board-kanban-png-clipart.png" align="center" height="20" /> KANBAN            |
-|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1024px-HTML5_Badge.svg.png" align="center" height="20" /> HTML|<img src="https://cdn.iconscout.com/icon/free/png-256/scrum-3658808-3051792.png" height="15" align="center" /> SCRUM            |
-|<img src="https://www.iconninja.com/files/752/618/436/css-internet-technology-website-web-style-css3-icon.svg" align="center" height="20" /> CSS com Pré Processadores <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" align="center" height="20" />|
-</center>
+  | Tecnologias atualmente utilizadas |   Tecnologias já estudadas   |
+  |:---------------------------------:|:----------------------------:|
+  |<img src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" align="center" height="20" /> Angular|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" align="center" height="20" /> React.JS           |
+  |<img src="https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg" align="center" height="20" /> Node.JS|<img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/flutter.png" align="center" height="20" /> Flutter **(Recente)**   |
+  |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1024px-GraphQL_Logo.svg.png" align="center" height="15" /> GraphQL|<img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" align="center" height="20" /> MongoDB           |
+  |<img src="https://cdn.iconscout.com/icon/free/png-256/azure-devops-3628645-3029870.png" align="center" height="20" /> Azure DevOps|<img src="https://seeklogo.com/images/M/mysql-logo-69B39F7D18-seeklogo.com.png" align="center" height="20" /> SQL (MySQL)         |
+  |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" align="center" height="20" /> Git|
+  |<img src="https://iconape.com/wp-content/files/ez/353342/png/javascript-logo.png" align="center" height="20" /> Javascript|    **Metodologias Ageis**    |
+  |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/600px-Typescript_logo_2020.svg.png" align="center" height="20" /> Typescript|<img src="https://www.pinclipart.com/picdir/middle/37-375056_kanban-board-kanban-png-clipart.png" align="center" height="20" /> KANBAN            |
+  |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1024px-HTML5_Badge.svg.png" align="center" height="20" /> HTML|<img src="https://cdn.iconscout.com/icon/free/png-256/scrum-3658808-3051792.png" height="15" align="center" /> SCRUM            |
+  |<img src="https://www.iconninja.com/files/752/618/436/css-internet-technology-website-web-style-css3-icon.svg" align="center" height="20" /> CSS com Pré Processadores <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" align="center" height="20" />|
+  
+</div>
   
 <h2 align="center">💻💻Seja bem vindo ao meu portfólio!!!💻💻</h2>
 
