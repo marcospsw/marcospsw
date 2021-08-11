@@ -29,7 +29,12 @@ Trabalho como desenvolvedor de software na empresa ED Company a 6 meses, utiliza
   
 ### Desenvolvedor Full Stack
 
-<a href="https://www.linkedin.com/in/marcos-wergles/">![image](https://flat.badgen.net/badge/in/marcos-wergles/black)</a> <a href="mailto:marcospsw96@gmail.com">![image](https://flat.badgen.net/badge/e-mail/marcospsw96@gmail.com/black)</a> <a href="https://api.whatsapp.com/send?phone=5521964870147&text=Ol%C3%A1%2C%20meu%20nome%20%C3%A9%20Marcos%20em%20que%20posso%20ajudar%20%3F">![image](https://flat.badgen.net/badge/Celular/(21)%2096487-0147/black)</a>
+<div> 
+  <a href="https://www.instagram.com/marcospsw" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:marcospsw96@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/marcos-wergles/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="https://api.whatsapp.com/send?phone=5521964870147&text=Ol%C3%A1%2C%20meu%20nome%20%C3%A9%20Marcos%20em%20que%20posso%20ajudar%20%3F" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>  
+</div>
 
 </span>
 
