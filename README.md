@@ -29,7 +29,7 @@ Trabalho como desenvolvedor de software na empresa ED Company a 6 meses, utiliza
   
 ### Desenvolvedor Full Stack
 
-<a href="https://www.linkedin.com/in/marcos-wergles/">![image](https://flat.badgen.net/badge/in/marcos-wergles/black)</a> <a href="mailto:marcospsw96@gmail.com">![image](https://flat.badgen.net/badge/e-mail/marcospsw96@gmail.com/black)</a>
+<a href="https://www.linkedin.com/in/marcos-wergles/">![image](https://flat.badgen.net/badge/in/marcos-wergles/black)</a> <a href="mailto:marcospsw96@gmail.com">![image](https://flat.badgen.net/badge/e-mail/marcospsw96@gmail.com/black)</a> <a href="https://api.whatsapp.com/send?phone=5521964870147&text=Ol%C3%A1%2C%20meu%20nome%20%C3%A9%20Marcos%20em%20que%20posso%20ajudar%20%3F">![image](https://flat.badgen.net/badge/Celular/(21)%2096487-0147/black)</a>
 
 </span>
 
