@@ -7,22 +7,24 @@ Aqui você conhecera os projetos que fiz durante cursos que realizei e também p
 
 Trabalho como desenvolvedor de software na empresa ED Company a 6 meses, utilizando Angular para Front-End e Node com Graphql para Back-End, dando suporte de sustentação ao Cliente Online um produto da IcatuSeguros.
 
-Tecnlogias atualmente utilizadas
-- Angular
-- Node.JS
-- GraphQL
-- Azure DevOps
-- Git
-- Javascript
-- HTML
-- CSS com Pré Processadores
-- Typescript
+<p align="center">
+  <h3>Tecnlogias atualmente utilizadas:</h3>
+  - Angular
+  - Node.JS
+  - GraphQL
+  - Azure DevOps
+  - Git
+  - Javascript
+  - HTML
+  - CSS com Pré Processadores
+  - Typescript
 
-Também trabalho com metodologias ágeis:
-- KANBAN
-- SCRUM
+  <h3>Também trabalho com metodologias ágeis:<h3>
+  - KANBAN
+  - SCRUM
+</p>
 
-Tecnologias que ja estudadas:
+<h3>Tecnologias que ja estudadas:<h3>
 - React.JS
 - Flutter (Recente!!)
 - MongoDB
