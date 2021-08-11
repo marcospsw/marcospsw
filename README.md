@@ -1,10 +1,32 @@
 ## 👋
 
-### Oi, sou Marcos tenho 25 anos, recém formado em Analise e Desenvolvimento de Sistemas pela Unigranrio em Duque de Caxias/RJ.
+### Oi, sou Marcos tenho 25 anos, sou formado em Analise e Desenvolvimento de Sistemas pela Unigranrio em Duque de Caxias/RJ.
 
-Sigo estudando e criando projetos recentemente utilizando muito Javascript e Typescript com React.js e Node.js.
-
+Sigo estudando e criando projetos recentemente utilizando muito Javascript e Typescript com Angular e Node.js.
 Aqui você conhecera os projetos que fiz durante cursos que realizei e também projetos feitos por conta própria.
+
+Trabalho como desenvolvedor de software na empresa ED Company a 6 meses, utilizando Angular para Front-End e Node com Graphql para Back-End, dando suporte de sustentação ao Cliente Online um produto da IcatuSeguros.
+
+Tecnlogias atualmente utilizadas
+- Angular
+- Node.JS
+- GraphQL
+- Azure DevOps
+- Git
+- Javascript
+- HTML
+- CSS com Pré Processadores
+- Typescript
+
+Também trabalho com metodologias ágeis:
+- KANBAN
+- SCRUM
+
+Tecnologias que ja estudadas:
+- React.JS
+- Flutter (Recente!!)
+- MongoDB
+- MySQL
 
 <h2 align="center">💻💻Seja bem vindo ao meu portfólio!!!💻💻</h2>
 
