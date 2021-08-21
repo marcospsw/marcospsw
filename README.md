@@ -5,7 +5,7 @@
 Sigo estudando e criando projetos recentemente utilizando muito Javascript e Typescript com Angular e Node.js.
 Aqui você conhecera os projetos que fiz durante cursos que realizei e também projetos feitos por conta própria.
 
-Trabalho como desenvolvedor de software na empresa ED Company a 6 meses, utilizando Angular para Front-End e Node com GraphQL para Back-End, dando suporte de sustentação ao Cliente Online um produto da IcatuSeguros.
+Trabalho como desenvolvedor de software na empresa ED Company a 5 meses, utilizando Angular para Front-End e Node com GraphQL para Back-End, dando suporte de sustentação ao Cliente Online um produto da IcatuSeguros.
 
 <div align="center">
 
